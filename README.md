@@ -1,5 +1,9 @@
 # 🪬 Trending Hanging Widget — Dhristi Bhommai
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Bhogyaan/Trending-Hangin-Widget-Dhristi-Bhommai-/main/logo.svg" alt="Trending Hanging Widget Logo" width="180" />
+</p>
+
 A lightweight Windows desktop widget inspired by the traditional **Dhristi Bhommai (Drishti Bommai)**. Keep a colorful hanging companion on your desktop with smooth swinging motion, a clean interface, and simple controls.
 
 <p align="center">
