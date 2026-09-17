@@ -4,12 +4,12 @@
   <img src="/assets/logo.svg" alt="Trending Hanging Widget Logo" width="180" />
 </p>
 
-A lightweight Windows desktop widget inspired by the traditional **Dhristi Bhommai (Drishti Bommai)**. Keep a colorful hanging companion on your desktop with smooth swinging motion, a clean interface, and simple controls.
+A lightweight Windows desktop widget inspired by the traditional **Dhristi Bhommai (Drishti Bommai)**. Keep a colorful hanging companion on your desktop with smooth swinging motion, a clean interface, and a dedicated settings experience.
 
 <p align="center">
-  <a href="https://github.com/Bhogyaan/Trending-Hangin-Widget-Dhristi-Bhommai-/releases/tag/latest"><img src="https://img.shields.io/github/v/release/Bhogyaan/Trending-Hangin-Widget-Dhristi-Bhommai-?display_name=tag&label=latest%20release" alt="Latest release"></a>
-  <a href="https://github.com/Bhogyaan/Trending-Hangin-Widget-Dhristi-Bhommai-/releases"><img src="https://img.shields.io/github/downloads/Bhogyaan/Trending-Hangin-Widget-Dhristi-Bhommai-/total?label=downloads" alt="Total downloads"></a>
-  <a href="https://github.com/Bhogyaan/Trending-Hangin-Widget-Dhristi-Bhommai-/issues"><img src="https://img.shields.io/github/issues/Bhogyaan/Trending-Hangin-Widget-Dhristi-Bhommai-" alt="Open issues"></a>
+  <a href="https://github.com/Bhogyaan/Trending-Hangin-Widget-Dhristi-Bhommai-/releases/tag/latest"><img src="https://img.shields.io/github/v/release/Bhogyaan/Trending-Hangin-Widget-Dhristi-Bhommai-" alt="Latest release" /></a>
+  <a href="https://github.com/Bhogyaan/Trending-Hangin-Widget-Dhristi-Bhommai-/releases"><img src="https://img.shields.io/github/downloads/Bhogyaan/Trending-Hangin-Widget-Dhristi-Bhommai-/total?label=downloads" alt="Downloads" /></a>
+  <a href="https://github.com/Bhogyaan/Trending-Hangin-Widget-Dhristi-Bhommai-/issues"><img src="https://img.shields.io/github/issues/Bhogyaan/Trending-Hangin-Widget-Dhristi-Bhommai-" alt="Open issues" /></a>
 </p>
 
 <p align="center">
@@ -19,6 +19,17 @@ A lightweight Windows desktop widget inspired by the traditional **Dhristi Bhomm
 </p>
 
 > **Note:** This is a Windows desktop application. The public repository provides compiled release downloads; the application source is maintained separately.
+
+## 🎥 Demo
+
+<p align="center">
+  <video controls width="800">
+    <source src="./assets/DemoVideo.mp4" type="video/mp4">
+    Your browser does not support the video tag. <a href="./assets/DemoVideo.mp4">Download the demo video</a>.
+  </video>
+</p>
+
+[▶️ Open or download the demo video](./assets/DemoVideo.mp4)
 
 ## ✨ Why use it?
 
@@ -38,8 +49,8 @@ Get the newest Windows build from the **[latest release](https://github.com/Bhog
 
 | Download | Best for | Link |
 |---|---|---|
-| **Installer** | A normal Windows installation | [Download Setup EXE](https://github.com/Bhogyaan/Trending-Hangin-Widget-Dhristi-Bhommai-/releases/download/latest/Trending.Hangin.Widget.Dhristi.Bhommai.Setup.1.5.9.exe) |
-| **Portable** | Running without a traditional installation | [Download Portable EXE](https://github.com/Bhogyaan/Trending-Hangin-Widget-Dhristi-Bhommai-/releases/download/latest/Trending.Hangin.Widget.Dhristi.Bhommai.1.5.9.exe) |
+| **Installer** | A normal Windows installation | [Download Setup EXE](https://github.com/Bhogyaan/Trending-Hangin-Widget-Dhristi-Bhommai-/releases/download/latest/Trending.Hangin.Widget.Dhristi.Bhommai.Setup.exe) |
+| **Portable** | Running without a traditional installation | [Download Portable EXE](https://github.com/Bhogyaan/Trending-Hangin-Widget-Dhristi-Bhommai-/releases/download/latest/Trending.Hangin.Widget.Dhristi.Bhommai.Portable.exe) |
 
 If a direct download link changes, open the **[latest release page](https://github.com/Bhogyaan/Trending-Hangin-Widget-Dhristi-Bhommai-/releases/tag/latest)** and choose the available asset there.
 
@@ -115,7 +126,7 @@ Have an idea? Open an issue with the **feature request** label and explain the u
 
 ## 🔒 Privacy
 
-The widget is designed as a desktop application. Review the release information and application behavior for details about data collection, network requests, and third-party services. Do not enter sensitive information into an application unless you have verified how it handles that data.
+The widget is designed as a desktop application. Review the release information and application behavior for details about data collection, network requests, and third-party services. Do not enter sensitive information into the application.
 
 ## 👨‍💻 Developer
 
