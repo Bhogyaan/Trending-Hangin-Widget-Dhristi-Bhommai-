@@ -1,7 +1,7 @@
 # 🪬 Trending Hanging Widget — Dhristi Bhommai
 
 <p align="center">
-  <img src="/assets/logo.svg" alt="Trending Hanging Widget Logo" width="180" />
+  <img src="./assets/logo.svg" alt="Trending Hanging Widget Logo" width="180" />
 </p>
 
 A lightweight Windows desktop widget inspired by the traditional **Dhristi Bhommai (Drishti Bommai)**. Keep a colorful hanging companion on your desktop with smooth swinging motion, a clean interface, and simple customization options.
@@ -22,11 +22,9 @@ A lightweight Windows desktop widget inspired by the traditional **Dhristi Bhomm
 
 ## 🎥 Demo
 
-GitHub does not consistently render repository-hosted MP4 files inside README pages, and the demo video is approximately 8 MB. Use the link below to open or download the full-quality demo:
+GitHub does not consistently render repository-hosted MP4 files inside README pages. The demo video is **7.9 MB**, so use the link below to open or download it:
 
 **[▶️ Open or download the demo video](./assets/DemoVideo.mp4)**
-
-For a smoother experience, the demo can also be attached to a GitHub Release or issue instead of being loaded directly from the repository.
 
 ## ✨ Why use it?
 
@@ -46,8 +44,8 @@ Get the newest Windows build from the **[latest release](https://github.com/Bhog
 
 | Download | Best for | Link |
 |---|---|---|
-| **Installer** | A normal Windows installation | [Download Setup EXE](https://github.com/Bhogyaan/Trending-Hangin-Widget-Dhristi-Bhommai-/releases/download/latest/Trending.Hangin.Widget.Dhristi.Bhommai.Setup.exe) |
-| **Portable** | Running without a traditional installation | [Download Portable EXE](https://github.com/Bhogyaan/Trending-Hangin-Widget-Dhristi-Bhommai-/releases/download/latest/Trending.Hangin.Widget.Dhristi.Bhommai.Portable.exe) |
+| **Installer** | A normal Windows installation | [Download Setup EXE](https://github.com/Bhogyaan/Trending-Hangin-Widget-Dhristi-Bhommai-/releases/download/latest/Trending.Hangin.Widget.Dhristi.Bhommai.Setup.1.5.10.exe) |
+| **Portable** | Running without a traditional installation | [Download Portable EXE](https://github.com/Bhogyaan/Trending-Hangin-Widget-Dhristi-Bhommai-/releases/download/latest/Trending.Hangin.Widget.Dhristi.Bhommai.1.5.10.exe) |
 
 If a direct download link changes, open the **[latest release page](https://github.com/Bhogyaan/Trending-Hangin-Widget-Dhristi-Bhommai-/releases/tag/latest)** and choose the available asset there.
 
