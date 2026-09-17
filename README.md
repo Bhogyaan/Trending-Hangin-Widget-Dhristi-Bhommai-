@@ -4,10 +4,10 @@
   <img src="/assets/logo.svg" alt="Trending Hanging Widget Logo" width="180" />
 </p>
 
-A lightweight Windows desktop widget inspired by the traditional **Dhristi Bhommai (Drishti Bommai)**. Keep a colorful hanging companion on your desktop with smooth swinging motion, a clean interface, and a dedicated settings experience.
+A lightweight Windows desktop widget inspired by the traditional **Dhristi Bhommai (Drishti Bommai)**. Keep a colorful hanging companion on your desktop with smooth swinging motion, a clean interface, and simple customization options.
 
 <p align="center">
-  <a href="https://github.com/Bhogyaan/Trending-Hangin-Widget-Dhristi-Bhommai-/releases/tag/latest"><img src="https://img.shields.io/github/v/release/Bhogyaan/Trending-Hangin-Widget-Dhristi-Bhommai-" alt="Latest release" /></a>
+  <a href="https://github.com/Bhogyaan/Trending-Hangin-Widget-Dhristi-Bhommai-/releases/tag/latest"><img src="https://img.shields.io/github/v/release/Bhogyaan/Trending-Hangin-Widget-Dhristi-Bhommai-?label=latest%20release" alt="Latest release" /></a>
   <a href="https://github.com/Bhogyaan/Trending-Hangin-Widget-Dhristi-Bhommai-/releases"><img src="https://img.shields.io/github/downloads/Bhogyaan/Trending-Hangin-Widget-Dhristi-Bhommai-/total?label=downloads" alt="Downloads" /></a>
   <a href="https://github.com/Bhogyaan/Trending-Hangin-Widget-Dhristi-Bhommai-/issues"><img src="https://img.shields.io/github/issues/Bhogyaan/Trending-Hangin-Widget-Dhristi-Bhommai-" alt="Open issues" /></a>
 </p>
@@ -22,14 +22,11 @@ A lightweight Windows desktop widget inspired by the traditional **Dhristi Bhomm
 
 ## 🎥 Demo
 
-<p align="center">
-  <video controls width="800">
-    <source src="./assets/DemoVideo.mp4" type="video/mp4">
-    Your browser does not support the video tag. <a href="./assets/DemoVideo.mp4">Download the demo video</a>.
-  </video>
-</p>
+GitHub does not consistently render repository-hosted MP4 files inside README pages, and the demo video is approximately 8 MB. Use the link below to open or download the full-quality demo:
 
-[▶️ Open or download the demo video](./assets/DemoVideo.mp4)
+**[▶️ Open or download the demo video](./assets/DemoVideo.mp4)**
+
+For a smoother experience, the demo can also be attached to a GitHub Release or issue instead of being loaded directly from the repository.
 
 ## ✨ Why use it?
 
@@ -102,7 +99,7 @@ The `latest` release contains the newest published Windows build. The automated 
 - **The app does not start:** Download the newest build and try the installer version.
 - **Windows shows a security warning:** This can happen with unsigned applications. Confirm that the file came from this official repository before continuing.
 - **The widget is not visible:** Check whether it opened behind another window or near the edge of the desktop, then restart the app.
-- **You found a bug:** Search [existing issues](https://github.com/Bhogyaan/Trending-Hangin-Widget-Dhristi-Bhommai-/issues) before [opening a new report](https://github.com/Bhogyaan/Trending-Hangin-Widget-Dhristi-Bhommai-/issues/new/choose).
+- **You found a bug:** Search [existing issues](https://github.com/Bhogyaan/Trending-Hangin-Widget-Dhristi-Bhommai-/issues) before [opening a new report](https://github.com/Bhogyaan/Trending-Hangin-Widget-Dhristi-Bhommai-/issues/new).
 
 When reporting a problem, include your Windows version, application version, steps to reproduce, and a screenshot or error message if possible.
 
@@ -126,7 +123,7 @@ Have an idea? Open an issue with the **feature request** label and explain the u
 
 ## 🔒 Privacy
 
-The widget is designed as a desktop application. Review the release information and application behavior for details about data collection, network requests, and third-party services. Do not enter sensitive information into the application.
+The widget is designed as a desktop application. Review the release information and application behavior for details about data collection, network requests, and third-party services. Do not enter sensitive information into the application unless the behavior is clearly documented.
 
 ## 👨‍💻 Developer
 
