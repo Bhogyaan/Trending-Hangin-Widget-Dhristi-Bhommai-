@@ -4,21 +4,21 @@
   <img src="./assets/logo.svg" alt="Trending Hanging Widget Logo" width="180" />
 </p>
 
-A lightweight Windows desktop widget inspired by the traditional **Dhristi Bhommai (Drishti Bommai)**. Keep a colorful hanging companion on your desktop with smooth swinging motion, a clean interface, and simple customization options.
+A lightweight cross-platform desktop widget inspired by the traditional Dhristi Bhommai (Drishti Bommai). Keep a colorful hanging companion on your desktop with smooth swinging motion, a clean interface, and an elegant desktop experience on both Windows and macOS.
 
 <p align="center">
-  <a href="https://github.com/Bhogyaan/Trending-Hangin-Widget-Dhristi-Bhommai-/releases/tag/latest"><img src="https://img.shields.io/github/v/release/Bhogyaan/Trending-Hangin-Widget-Dhristi-Bhommai-?label=latest%20release" alt="Latest release" /></a>
-  <a href="https://github.com/Bhogyaan/Trending-Hangin-Widget-Dhristi-Bhommai-/releases"><img src="https://img.shields.io/github/downloads/Bhogyaan/Trending-Hangin-Widget-Dhristi-Bhommai-/total?label=downloads" alt="Downloads" /></a>
+  <a href="https://github.com/Bhogyaan/Trending-Hangin-Widget-Dhristi-Bhommai-/releases/tag/latest"><img src="https://img.shields.io/github/v/release/Bhogyaan/Trending-Hangin-Widget-Dhristi-Bhommai-" alt="Latest release" /></a>
+  <a href="https://github.com/Bhogyaan/Trending-Hangin-Widget-Dhristi-Bhommai-/releases"><img src="https://img.shields.io/github/downloads/Bhogyaan/Trending-Hangin-Widget-Dhristi-Bhommai-/total?label=Downloads" alt="Total downloads" /></a>
   <a href="https://github.com/Bhogyaan/Trending-Hangin-Widget-Dhristi-Bhommai-/issues"><img src="https://img.shields.io/github/issues/Bhogyaan/Trending-Hangin-Widget-Dhristi-Bhommai-" alt="Open issues" /></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Bhogyaan/Trending-Hangin-Widget-Dhristi-Bhommai-/releases/tag/latest"><strong>⬇️ Download for Windows</strong></a>
+  <a href="https://github.com/Bhogyaan/Trending-Hangin-Widget-Dhristi-Bhommai-/releases/tag/latest"><strong>⬇️ Download for Windows & macOS</strong></a>
   ·
   <a href="https://github.com/Bhogyaan/Trending-Hangin-Widget-Dhristi-Bhommai-/issues">Report a problem</a>
 </p>
 
-> **Note:** This is a Windows desktop application. The public repository provides compiled release downloads; the application source is maintained separately.
+> **Note:** This project is built for both Windows and macOS. The public repository provides compiled release downloads; the application source is maintained separately.
 
 ## 🎥 Demo
 
@@ -30,38 +30,46 @@ GitHub does not consistently render repository-hosted MP4 files inside README pa
 
 - 🪬 Brings a traditional Dhristi Bhommai-inspired design to your desktop
 - 🌀 Provides a smooth, physics-inspired hanging and swinging animation
-- 🖥️ Runs as a lightweight Windows widget
+- 🖥️ Works on both Windows and macOS desktop systems
 - 🎨 Uses a clean, distraction-free interface
 - ⚙️ Includes a dedicated settings experience
-- 📦 Offers both an installer and a portable executable
+- 📦 Offers installer and portable options for Windows, plus macOS builds
 - 🔄 Ships through automatically generated GitHub Releases
 
 ## 📥 Download
 
-Get the newest Windows build from the **[latest release](https://github.com/Bhogyaan/Trending-Hangin-Widget-Dhristi-Bhommai-/releases/tag/latest)**.
+Get the newest Windows or macOS build from the **[latest release](https://github.com/Bhogyaan/Trending-Hangin-Widget-Dhristi-Bhommai-/releases/tag/latest)**.
 
 ### Choose your download
 
 | Download | Best for | Link |
 |---|---|---|
-| **Installer** | A normal Windows installation | [Download Setup EXE](https://github.com/Bhogyaan/Trending-Hangin-Widget-Dhristi-Bhommai-/releases/download/latest/Trending.Hangin.Widget.Dhristi.Bhommai.Setup.1.5.10.exe) |
-| **Portable** | Running without a traditional installation | [Download Portable EXE](https://github.com/Bhogyaan/Trending-Hangin-Widget-Dhristi-Bhommai-/releases/download/latest/Trending.Hangin.Widget.Dhristi.Bhommai.1.5.10.exe) |
+| **Windows Installer** | A normal Windows installation | [Download Setup EXE](https://github.com/Bhogyaan/Trending-Hangin-Widget-Dhristi-Bhommai-/releases/download/latest/Trending.Hangin.Widget.Dhristi.Bhommai-Setup.exe) |
+| **Windows Portable** | Running without a traditional installation | [Download Portable EXE](https://github.com/Bhogyaan/Trending-Hangin-Widget-Dhristi-Bhommai-/releases/download/latest/Trending.Hangin.Widget.Dhristi.Bhommai-Portable.exe) |
+| **macOS Build** | Running on macOS devices | [Open latest release](https://github.com/Bhogyaan/Trending-Hangin-Widget-Dhristi-Bhommai-/releases/tag/latest) |
 
 If a direct download link changes, open the **[latest release page](https://github.com/Bhogyaan/Trending-Hangin-Widget-Dhristi-Bhommai-/releases/tag/latest)** and choose the available asset there.
 
 ## 🚀 Installation
 
-### Installer
+### Windows
 
 1. Download the **Setup EXE** from the latest release.
 2. Run the installer and follow the on-screen steps.
 3. Launch **Trending Hanging Widget** from Windows.
 
-### Portable version
+### Windows Portable version
 
 1. Download the **Portable EXE**.
 2. Move it to a folder of your choice.
 3. Double-click the file to start the widget.
+
+### macOS
+
+1. Download the latest **macOS build** from the release page.
+2. Open the downloaded app or installer package.
+3. If macOS shows a security warning, allow the app in **System Settings > Security & Privacy**.
+4. Launch the widget and enjoy it on your desktop.
 
 Windows SmartScreen may show a warning when an application is not signed with a trusted code-signing certificate. Only run files downloaded from this official repository.
 
@@ -71,35 +79,36 @@ Windows SmartScreen may show a warning when an application is not signed with a 
 2. The hanging widget appears on your desktop.
 3. Interact with the widget using its available controls.
 4. Open Settings to configure supported options.
-5. Exit from the application controls or system tray menu.
+5. Exit from the application controls or system tray/menu bar.
 
 ## 🛠️ Technology
 
-- **Electron.js** — Windows desktop application framework
+- **Electron.js** — Cross-platform desktop application framework
 - **React.js** — User interface
 - **Vite** — Frontend build tool
 - **JavaScript and CSS** — Application logic, styling, and animation
-- **Electron Builder** — Windows packaging
+- **Electron Builder** — Windows and macOS packaging
 - **GitHub Actions** — Automated build and release publishing
 
 ## 🔄 Release process
 
-The `latest` release contains the newest published Windows build. The automated release workflow:
+The `latest` release contains the newest published Windows and macOS builds. The automated release workflow:
 
 1. Installs dependencies.
 2. Builds the React frontend.
 3. Packages the Electron application.
-4. Generates Windows EXE files.
+4. Generates Windows and macOS release assets.
 5. Publishes the assets to GitHub Releases.
 
 ## 🐛 Troubleshooting
 
 - **The app does not start:** Download the newest build and try the installer version.
 - **Windows shows a security warning:** This can happen with unsigned applications. Confirm that the file came from this official repository before continuing.
+- **macOS blocks the app:** Open **System Settings > Security & Privacy** and allow the app to run.
 - **The widget is not visible:** Check whether it opened behind another window or near the edge of the desktop, then restart the app.
-- **You found a bug:** Search [existing issues](https://github.com/Bhogyaan/Trending-Hangin-Widget-Dhristi-Bhommai-/issues) before [opening a new report](https://github.com/Bhogyaan/Trending-Hangin-Widget-Dhristi-Bhommai-/issues/new).
+- **You found a bug:** Search [existing issues](https://github.com/Bhogyaan/Trending-Hangin-Widget-Dhristi-Bhommai-/issues) before [opening a new report](https://github.com/Bhogyaan/Trending-Hangin-Widget-Dhristi-Bhommai-/issues/new/choose).
 
-When reporting a problem, include your Windows version, application version, steps to reproduce, and a screenshot or error message if possible.
+When reporting a problem, include your OS version, application version, steps to reproduce, and a screenshot or error message if possible.
 
 ## 🌟 Support the project
 
@@ -114,14 +123,14 @@ If you enjoy the widget, please consider:
 
 - Additional widget themes and visual styles
 - More personalization and animation controls
-- Expanded support for desktop environments
+- Expanded support for desktop environments and display setups
 - Improved documentation and release notes
 
 Have an idea? Open an issue with the **feature request** label and explain the use case.
 
 ## 🔒 Privacy
 
-The widget is designed as a desktop application. Review the release information and application behavior for details about data collection, network requests, and third-party services. Do not enter sensitive information into the application unless the behavior is clearly documented.
+The widget is designed as a desktop application. Review the release information and application behavior for details about data collection, network requests, and third-party services. Do not enter sensitive information into the widget unless you are comfortable with the app's operating environment and permissions.
 
 ## 👨‍💻 Developer
 
